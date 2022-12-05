@@ -1,0 +1,18 @@
+sentiment analysis adalah:
+proses memahami dan mengelompokkan emosi (positif, negatif, dan netral)
+yang terdapat dalam tulisan menggunakan teknik analisis teks 
+
+singkatnya:
+Menganalisis tulisan online untuk menentukan nada emosional dari penulis
+
+sering disebut:
+opinion mining
+
+Challenge:
+Buat model LSTM dan NN untuk sentimen analysis
+input berupa teks dan file
+output berupa pengelompokan (negatif netral positif)
+
+Natural Processing Language:
+https://algorit.ma/blog/natural-language-processing/
+Memproses bahasa sehari hari agar bisa dibaca mesin
